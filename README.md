@@ -1,12 +1,12 @@
 # - File Rename Bot
 
 <p align="center">
-  <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot/stargazers">
+  <a href="https://github.com/prrname/FileRenameBot_nokm/stargazers">
     <img src="https://img.shields.io/github/stars/No-OnE-Kn0wS-Me/FileRenameBot?style=social">
 
   </a>
   
-  <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot/fork">
+  <a href="https://github.com/prrname/FileRenameBot_nokm/fork">
     <img src="https://img.shields.io/github/forks/No-OnE-Kn0wS-Me/FileRenameBot?label=Fork&style=social">
 
   </a>  
