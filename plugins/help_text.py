@@ -105,8 +105,7 @@ async def start_me(bot, update):
                     InlineKeyboardButton('Feedback', url='https://t.me/Pira_bts')
                 ],
                 [
-                    InlineKeyboardButton('Other Bots', url='https://t.me/pirabts'),
-                    InlineKeyboardButton('Source', url='https://github.com/prrname/FileRenameBot_nokm')
+                    InlineKeyboardButton('Other Bots', url='https://t.me/pirabts')
                 ]
             ]
         ),
